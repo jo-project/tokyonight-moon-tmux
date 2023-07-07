@@ -2,7 +2,7 @@
 
 # Tokyonight Moon Colors Tmux
 
-tmux set -g mode-style "fg=#82aaff,bg=#3b4261"
+tmux set-option -g mode-style "fg=#82aaff,bg=#3b4261"
 
 tmux set-option -g message-style "fg=#82aaff,bg=#3b4261"
 tmux set-option -g message-command-style "fg=#82aaff,bg=#3b4261"
